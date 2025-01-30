@@ -44,6 +44,8 @@ class Solution {
 - [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 my solution is [ezzatziad83 solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/6348846/java-solution-by-ezzatziad83-qmzi) take a look at it.
 - [15. 3Sum](https://leetcode.com/problems/3sum/)
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/3sum/solutions/6349032/java-solution-by-ezzatziad83-lcqh) take a look at it.
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/container-with-most-water/solutions/6349076/java-solution-by-ezzatziad83-uwcn) take a look at it.
 
 ### to be continued....
