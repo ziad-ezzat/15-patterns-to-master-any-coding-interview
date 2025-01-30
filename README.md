@@ -3,8 +3,8 @@
 This repository contains **15 coding patterns** used to solve competitive programming and interview problems efficiently.
 
 ## 📌 Patterns List:
-1. [Prefix Sum](Patterns/1_Prefix_Sum.md)
-2. [Two Pointers](Patterns/2_Two_Pointers.md)
+1. [Prefix Sum](patterns/1_Prefix_Sum.md)
+2. [Two Pointers](patterns/2_Two_Pointers.md)
 3. More to come...
 
 Each pattern includes:
