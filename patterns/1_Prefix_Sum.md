@@ -33,6 +33,6 @@ class Solution {
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 my solution is [ezzatziad83 solution](https://leetcode.com/problems/range-sum-query-immutable/solutions/6340163/100-java-solution-by-ezzatziad83-dr2y) take a look at it.
 - [525. Contiguous Array](https://leetcode.com/problems/contiguous-array/)
-my solution is [here](https://leetcode.com/problems/contiguous-array/solutions/6340393/java-solution-by-ezzatziad83-63wa/) take a look at it.
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/contiguous-array/solutions/6340393/java-solution-by-ezzatziad83-63wa/) take a look at it.
 - [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-my solution is [here](https://leetcode.com/problems/subarray-sum-equals-k/solutions/6340439/java-solution-by-ezzatziad83-kw66/) take a look at it.
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/subarray-sum-equals-k/solutions/6340439/java-solution-by-ezzatziad83-kw66/) take a look at it.
