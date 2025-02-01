@@ -1,6 +1,6 @@
 # Coding Patterns for Problem Solving 🚀
 
-This repository contains **15 coding patterns** used to solve competitive programming and interview problems efficiently.
+This repository contains **15 coding patterns** used to solve competitive programming and interview problems efficiently. Inspired by [this article](https://manralai.medium.com/only-15-patterns-to-master-any-coding-interview-570a3afc9042).
 
 ## 📌 Patterns List:
 1. [Prefix Sum](patterns/1_Prefix_Sum.md)
@@ -11,4 +11,4 @@ Each pattern includes:
 ✅ Explanation  
 ✅ Sample problem  
 ✅ Java solution  
-✅ Related LeetCode problems  
+✅ Related LeetCode problems
