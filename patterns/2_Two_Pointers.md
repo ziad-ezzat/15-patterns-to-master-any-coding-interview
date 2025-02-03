@@ -83,7 +83,7 @@ https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-n
 Reversing / Swapping
 https://leetcode.com/problems/valid-palindrome/
 (*) https://leetcode.com/problems/reverse-string/
-// TODO: add my solution
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/reverse-string/solutions/6363389/java-solution-by-ezzatziad83-1aja) take a look at it.
 https://leetcode.com/problems/reverse-vowels-of-a-string/
 https://leetcode.com/problems/valid-palindrome-ii/
 https://leetcode.com/problems/reverse-only-letters/
@@ -115,7 +115,7 @@ Using two pointers with different speed of movement. Typically they starts from 
 
 Linked List Operations
 (*) https://leetcode.com/problems/linked-list-cycle/
-// TODO: add my solution
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/linked-list-cycle/solutions/6367858/java-solution-by-ezzatziad83-msg0) take a look at it.
 https://leetcode.com/problems/linked-list-cycle-ii/
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 https://leetcode.com/problems/rotate-list/
@@ -124,11 +124,10 @@ https://leetcode.com/problems/palindrome-linked-list/
 
 Cyclic Detection
 (*) https://leetcode.com/problems/find-the-duplicate-number/
-// TODO: add my solution
+my solution is [ezzatziad83 solution](https://leetcode.com/problems/find-the-duplicate-number/solutions/6368263/java-solution-by-ezzatziad83-jdv4) take a look at it.
 https://leetcode.com/problems/circular-array-loop/
 
 Sliding Window/Caterpillar Method
-
 (*) https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
 // TODO: add my solution
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/
