@@ -5,7 +5,7 @@ This repository contains **15 coding patterns** used to solve competitive progra
 ## 📌 Patterns List:
 1. [Prefix Sum](patterns/1_Prefix_Sum.md)
 2. [Two Pointers](patterns/2_Two_Pointers.md)
-3. More to come...
+3. [Sliding Window](patterns/3_Sliding_Window.md)
 
 Each pattern includes:
 ✅ Explanation  
