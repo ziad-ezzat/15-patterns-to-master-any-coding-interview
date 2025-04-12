@@ -12,6 +12,7 @@ This repository contains **15 coding patterns** used to solve competitive progra
 7. [Top 'K' Elements](patterns/7_Top_K_Elements.md)
 8. [Overlapping Intervals](patterns/8_Overlapping_Intervals.md)
 9. [Modified Binary Search](patterns/9_Modified_Binary_Search.md)
+10. [Binary Tree Traversal](patterns/10_Binary_Tree_Traversal.md)
 
 Each pattern includes:
 ✅ Explanation  
