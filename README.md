@@ -14,6 +14,7 @@ This repository contains **15 coding patterns** used to solve competitive progra
 9. [Modified Binary Search](patterns/9_Modified_Binary_Search.md)
 10. [Binary Tree Traversal](patterns/10_Binary_Tree_Traversal.md)
 11. [Depth-First Search (DFS)](patterns/11_Depth_First_Search.md)
+12. [Breadth-First Search (BFS)](patterns/12_Breadth_First_Search.md)
 
 Each pattern includes:
 ✅ Explanation  
