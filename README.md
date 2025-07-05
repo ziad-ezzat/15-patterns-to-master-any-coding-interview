@@ -17,6 +17,7 @@ This repository contains **15 coding patterns** used to solve competitive progra
 12. [Breadth-First Search (BFS)](patterns/12_Breadth_First_Search.md)
 13. [Matrix Traversal](patterns/13_Matrix_Traversal.md)
 14. [Backtracking](patterns/14_Backtracking.md)
+15. [Dynamic Programming Patterns](patterns/15_Dynamic_Programming.md)
 
 Each pattern includes:
 ✅ Explanation  
